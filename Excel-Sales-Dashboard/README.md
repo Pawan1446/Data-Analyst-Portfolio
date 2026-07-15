@@ -28,6 +28,3 @@ This project analyzes retail sales data using Microsoft Excel.
 - Compared In-store vs Takeaway sales.
 - Analyzed payment method distribution.
 - Tracked daily sales trends.
-## Dashboard Preview
-
-![Excel Dashboard](Excel Dashboard.png)
